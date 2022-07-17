@@ -1,5 +1,5 @@
 module.exports = {
     base: '/magictext/',
     title: 'MagicText',
-    description: 'OCR-Text Scanner is app to recognize any text from an image.'
+    description: 'MagicText is app to recognize any text (OCR-text scanner) from an image on macOS'
 }
