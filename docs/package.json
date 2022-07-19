@@ -1,9 +1,11 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev .",
-    "docs:build": "vuepress build. "
+    "docs:build": "vuepress build ."
   },
   "dependencies": {
-    "vue-template-compiler": "^2.7.7"
+    "global": "^4.4.0",
+    "vue-template-compiler": "^2.7.7",
+    "vuepress": "^1.9.7"
   }
 }
